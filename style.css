@@ -125,7 +125,7 @@ body {
     top: 0;
     height: 100vh;
 
-    border: 1px solid var(--primary);
+    border-inline-start: 1px solid var(--primary);
   }
 
   .navigation {
